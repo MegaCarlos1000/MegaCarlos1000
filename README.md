@@ -8,7 +8,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta crear soluciones innovadoras y enfrentar nuevos desafíos que me permitan crecer profesionalmente.
+Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Titulado como **Analista Programador de Inacap** y actualmente estudiando **Ingeniería**. Me encanta crear soluciones innovadoras y enfrentar nuevos desafíos que me permitan crecer profesionalmente.
+
+## 🎓 Formación Académica
+
+- **Analista Programador** - Instituto Profesional INACAP
+- **Estudiante de Ingeniería** - En curso
 
 ## 🛠️ Mis Habilidades Técnicas
 
@@ -59,6 +64,7 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me
 - 📚 Profundizando en arquitecturas de microservicios
 - 🌱 Mejorando mis habilidades en desarrollo web fullstack
 - 💡 Explorando nuevas tecnologías en el campo de la IA
+- 🎓 Avanzando en mis estudios de Ingeniería
 
 ## 📫 Contáctame
 
