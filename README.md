@@ -43,10 +43,6 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Ti
 
 ## 🌟 Proyectos Destacados
 
-- 💼 **Sistema de Gestión de Nómina - 'El Correo de Yury'**
-  
-  Desarrollé una aplicación integral para la gestión de nómina utilizando Python y Tkinter. El sistema optimizó el proceso de gestión de datos de los empleados, centralizando la información y mejorando la eficiencia operativa de la empresa.
-
 - 🌐 **Desarrollo de Página Web para Okri.cl**
   
   Creé una plataforma web moderna y limpia para Okri.cl utilizando React y TypeScript. La página cuenta con un diseño responsivo enfocado en ofrecer una navegación fluida y una experiencia de usuario optimizada.
